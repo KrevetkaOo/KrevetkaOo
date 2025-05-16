@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![3](https://github.com/user-attachments/assets/5b5481a1-41da-4cc7-83d7-82565f3726d3)
 <!--
 **KrevetkaOo/KrevetkaOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
